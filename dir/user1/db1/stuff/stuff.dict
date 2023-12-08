@@ -1,0 +1,3 @@
+sid int *
+name varchar ^
+depart varchar ^

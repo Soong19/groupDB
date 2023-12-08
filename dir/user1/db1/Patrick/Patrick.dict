@@ -1,0 +1,4 @@
+name varchar *
+id int ^
+depart varchar ^
+salary int ^
